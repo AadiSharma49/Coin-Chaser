@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://coivj10vkqcdp"]
+
+[ext_resource type="Script" path="res://scripts/killzone.gd" id="1_wp5do"]
+
+[node name="Killzone" type="Area2D"]
+collision_mask = 2
+script = ExtResource("1_wp5do")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
