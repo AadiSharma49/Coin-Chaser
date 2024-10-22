@@ -6,7 +6,6 @@
 - **2D Platformer:** Classic 2D platforming gameplay inspired by Super Mario.
 - **Coin Collecting:** Players must collect all the coins to complete each level.
 - **Enemy Avoidance:** Stay alive by avoiding or outsmarting enemies.
-- **Dynamic Levels:** Exciting levels designed to challenge players' reflexes and skills.
   
 ## Technologies
 - **Engine:** Godot Engine
